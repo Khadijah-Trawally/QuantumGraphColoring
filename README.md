@@ -1,0 +1,1 @@
+Quantum Graph Coloring is a thesis project aimed at exploring the application of quantum computing to the graph coloring problem. This project utilizes quantum algorithms and techniques to find efficient solutions for graph coloring, which is a fundamental problem in  combinatorial optimization.
